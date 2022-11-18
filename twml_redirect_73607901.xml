@@ -1,5 +1,7 @@
-<Response>
-	<Dial callerId="33757908030">
-		<Client>73607901</Client>
-	</Dial>
+<?xml version="1.0" encoding="UTF-8"?>
+<Response callerId="33757908030">
+    <Dial>
+        <Client>73607901</Client>
+    </Dial>
 </Response>
+
