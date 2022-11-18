@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response callerId="33757908030">
-    <Dial>
+    <Redirect>
         <Client>73607901</Client>
-    </Dial>
+    </Redirect>
 </Response>
 
